@@ -28,7 +28,7 @@ var routes = [
     layout: "/admin"
   },
   {
-    path: "/notifications",
+    path: "/Goals",
     name: "Goals",
     rtlName: "إخطارات",
     icon: require('./assets/img/goals.png'),

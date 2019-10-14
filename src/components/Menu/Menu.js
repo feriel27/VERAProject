@@ -57,8 +57,11 @@ class Menu extends Component {
                                         <div className="d-flex flex-row">
                                             <img alt={"logo-cal"} src={require('../../assets/img/Distance.png')}
                                                  style={{
-                                                     height: '20px',
-                                                     width: '20px'
+                                                     height: 'auto',
+                                                     width: 'auto',
+                                                     display: 'block',
+                                                     maxWidth:'20px',
+                                                     maxHeight:'20px'
                                                  }}/>
                                             <Label
                                                 style={{
@@ -84,8 +87,11 @@ class Menu extends Component {
                                         <div className="d-flex flex-row">
                                             <img alt={"logo-cal"} src={require('../../assets/img/callorie.png')}
                                                  style={{
-                                                     height: '20px',
-                                                     width: '20px'
+                                                     height: 'auto',
+                                                     width: 'auto',
+                                                     display: 'block',
+                                                     maxWidth:'20px',
+                                                     maxHeight:'20px'
                                                  }}/>
                                             <Label
                                                 style={{
@@ -110,8 +116,11 @@ class Menu extends Component {
                                         <div className="d-flex flex-row">
                                             <img alt={"logo-cal"} src={require('../../assets/img/speed.png')}
                                                  style={{
-                                                     height: '20px',
-                                                     width: '20px'
+                                                     height: 'auto',
+                                                     width: 'auto',
+                                                     display: 'block',
+                                                     maxWidth:'20px',
+                                                     maxHeight:'20px'
                                                  }}/>
                                             <Label
                                                 style={{
@@ -137,8 +146,11 @@ class Menu extends Component {
                                         <div className="d-flex flex-row">
                                             <img alt={"logo-cal"} src={require('../../assets/img/heart rate.png')}
                                                  style={{
-                                                     height: '20px',
-                                                     width: '20px'
+                                                     height: 'auto',
+                                                     width: 'auto',
+                                                     display: 'block',
+                                                     maxWidth:'20px',
+                                                     maxHeight:'20px'
                                                  }}/>
                                             <Label
                                                 style={{

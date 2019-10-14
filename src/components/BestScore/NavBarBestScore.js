@@ -61,8 +61,11 @@ export default class Resultat extends React.Component {
                                         <div className="d-flex flex-row">
                                             <img alt={"logo-cal"} src={require('../../assets/img/Distance.png')}
                                                  style={{
-                                                     height: '20px',
-                                                     width: '20px'
+                                                     height: 'auto',
+                                                     width: 'auto',
+                                                     display: 'block',
+                                                     maxWidth:'20px',
+                                                     maxHeight:'20px'
                                                  }}/>
                                             <Label
                                                 style={{
@@ -91,8 +94,11 @@ export default class Resultat extends React.Component {
                                         <div className="d-flex flex-row">
                                             <img alt={"logo-cal"} src={require('../../assets/img/speed.png')}
                                                  style={{
-                                                     height: '20px',
-                                                     width: '20px'
+                                                     height: 'auto',
+                                                     width: 'auto',
+                                                     display: 'block',
+                                                     maxWidth:'20px',
+                                                     maxHeight:'20px'
                                                  }}/>
                                             <Label
                                                 style={{

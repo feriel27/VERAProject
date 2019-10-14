@@ -131,8 +131,11 @@ class LevelInfo extends Component {
                                         <Row>
                                             <img alt={"logo-cal"} src={require('../../assets/img/speed.png')}
                                                  style={{
-                                                     height: '30px',
-                                                     width: '30px'
+                                                     height: 'auto',
+                                                     width: 'auto',
+                                                     display: 'block',
+                                                     maxWidth:'30px',
+                                                     maxHeight:'30px'
                                                  }}/>
                                             <h1 style={{
                                                 fontFamily: 'panton ,sans-serif',
@@ -170,8 +173,11 @@ class LevelInfo extends Component {
                                         <Row>
                                             <img alt={"logo-cal"} src={require('../../assets/img/time.png')}
                                                  style={{
-                                                     height: '30px',
-                                                     width: '30px'
+                                                     height: 'auto',
+                                                     width: 'auto',
+                                                     display: 'block',
+                                                     maxWidth:'30px',
+                                                     maxHeight:'30px'
                                                  }}/>
                                             <h1 style={{
                                                 fontFamily: 'panton ,sans-serif',
@@ -195,8 +201,11 @@ class LevelInfo extends Component {
                                         <Row>
                                             <img alt={"logo-cal"} src={require('../../assets/img/Distance.png')}
                                                  style={{
-                                                     height: '30px',
-                                                     width: '30px'
+                                                     height: 'auto',
+                                                     width: 'auto',
+                                                     display: 'block',
+                                                     maxWidth:'30px',
+                                                     maxHeight:'30px'
                                                  }}/>
                                             <h1 style={{
                                                 fontFamily: 'panton ,sans-serif',
@@ -271,8 +280,11 @@ class LevelInfo extends Component {
                                         <Row>
                                             <img alt={"logo-cal"} src={require('../../assets/img/callorie.png')}
                                                  style={{
-                                                     height: '30px',
-                                                     width: '30px'
+                                                     height: 'auto',
+                                                     width: 'auto',
+                                                     display: 'block',
+                                                     maxWidth:'30px',
+                                                     maxHeight:'30px'
                                                  }}/>
 
                                             <h1 style={{
