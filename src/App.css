@@ -1,0 +1,458 @@
+
+canvas {
+    margin-left: 10px;
+    width: 450px !important;
+    height: 250px !important;
+    border-color: #53F3CE;
+}
+
+
+.btn.btn-simple.active, .navbar .navbar-nav > a.btn.btn-simple.active {
+    border-color: #344675 !important;
+}
+
+.btn.btn-simple, .navbar .navbar-nav > a.btn.btn-simple {
+    /* color: #344675; */
+    border-color: #344675;
+    background: transparent;
+}
+
+btn:hover, .btn:focus, .btn:active, .btn.active, .btn:active:focus, .btn:active:hover, .btn.active:focus, .btn.active:hover, .navbar .navbar-nav > a.btn:hover, .navbar .navbar-nav > a.btn:focus, .navbar .navbar-nav > a.btn:active, .navbar .navbar-nav > a.btn.active, .navbar .navbar-nav > a.btn:active:focus, .navbar .navbar-nav > a.btn:active:hover, .navbar .navbar-nav > a.btn.active:focus, .navbar .navbar-nav > a.btn.active:hover {
+    /* background-color: #263148 !important; */
+    background-image: -webkit-gradient(linear, right top, left bottom, from(#53F3CE), color-stop(#263148), to(#53F3CE)) !important;
+    /* background-image: -webkit-linear-gradient(top right, #344675, #263148, #344675) !important; */
+    background-image: linear-gradient(to bottom left, #53F3CE, #263148, #53F3CE) !important;
+    background-image: -webkit-linear-gradient(to bottom left, #53F3CE, #263148, #53F3CE) !important;
+    background-image: -moz-linear-gradient(to bottom left, #53F3CE, #263148, #53F3CE) !important;
+    color: #ffffff;
+    box-shadow: none;
+}
+
+.form-control:focus-visible {
+    border-color: #53F3CE;
+    background-color: #53F3CE;
+}
+
+#btnFormat {
+    width: 110px;
+    border-width: 2px;
+    border: none;
+    position: relative;
+    overflow: hidden;
+    margin: 4px 1px;
+    cursor: pointer;
+    background: #344675;
+    background-image: -webkit-linear-gradient(to bottom left, #344675, #263148, #344675);
+    background-image: -webkit-gradient(linear, right top, left bottom, from(#344675), color-stop(#263148), to(#344675));
+    background-image: -webkit-linear-gradient(top right, #344675, #263148, #344675);
+    background-image: linear-gradient(to bottom left, #344675, #263148, #344675);
+    background-size: 210% 210%;
+    background-position: top right;
+    -webkit-transition: all 0.15s ease;
+    transition: all 0.15s ease;
+    box-shadow: none;
+    color: #ffffff;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    font-size: 10px;
+    font-family: 'panton ,sans-serif';
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    /*border-radius: .25rem;*/
+    -webkit-transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+#btnSignup {
+    width: 110px;
+    border-width: 2px;
+    border: none;
+    position: relative;
+    overflow: hidden;
+    margin: 4px 1px;
+    cursor: pointer;
+    background: #344675;
+    background-image: -webkit-linear-gradient(to bottom left, #344675, #263148, #344675);
+    background-image: -webkit-gradient(linear, right top, left bottom, from(#344675), color-stop(#263148), to(#344675));
+    background-image: -webkit-linear-gradient(top right, #344675, #263148, #344675);
+    background-image: linear-gradient(to bottom left, #344675, #263148, #344675);
+    background-size: 210% 210%;
+    background-position: top right;
+    background-color: #344675;
+    -webkit-transition: all 0.15s ease;
+    transition: all 0.15s ease;
+    box-shadow: none;
+    color: #ffffff;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    font-size: 10px;
+    font-family: 'panton ,sans-serif';
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    /*border-radius: .25rem;*/
+    -webkit-transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+#btnSave {
+    width: 110px;
+    border-width: 2px;
+    border: none;
+    position: relative;
+    overflow: hidden;
+    margin: 4px 1px;
+    cursor: pointer;
+    background: #344675;
+    background-image: -webkit-linear-gradient(to bottom left, #344675, #263148, #344675);
+    background-image: -webkit-gradient(linear, right top, left bottom, from(#344675), color-stop(#263148), to(#344675));
+    background-image: -webkit-linear-gradient(top right, #344675, #263148, #344675);
+    background-image: linear-gradient(to bottom left, #344675, #263148, #344675);
+    background-size: 210% 210%;
+    background-position: top right;
+    background-color: #344675;
+    -webkit-transition: all 0.15s ease;
+    transition: all 0.15s ease;
+    box-shadow: none;
+    color: #ffffff;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    font-size: 10px;
+    font-family: 'panton ,sans-serif';
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    /*border-radius: .25rem;*/
+    -webkit-transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+#btnClose {
+    width: 110px;
+    border-width: 2px;
+    border: none;
+    position: relative;
+    overflow: hidden;
+    margin: 4px 1px;
+    cursor: pointer;
+    background: #344675;
+    background-image: -webkit-linear-gradient(to bottom left, #344675, #263148, #344675);
+    background-image: -webkit-gradient(linear, right top, left bottom, from(#344675), color-stop(#263148), to(#344675));
+    background-image: -webkit-linear-gradient(top right, #344675, #263148, #344675);
+    background-image: linear-gradient(to bottom left, #344675, #263148, #344675);
+    background-size: 210% 210%;
+    background-position: top right;
+    background-color: #344675;
+    -webkit-transition: all 0.15s ease;
+    transition: all 0.15s ease;
+    box-shadow: none;
+    color: #ffffff;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    font-size: 10px;
+    font-family: 'panton ,sans-serif';
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    /*border-radius: .25rem;*/
+    -webkit-transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+#btnGenderMale {
+    width: 100px;
+    border-width: 2px;
+    border: none;
+    position: relative;
+    overflow: hidden;
+    margin: 4px 1px;
+    cursor: pointer;
+    background: #6b6b6b;
+    /*background-image: -webkit-linear-gradient(to bottom left, #344675, #263148, #344675);*/
+    /*background-image: -webkit-gradient(linear, right top, left bottom, from(#344675), color-stop(#263148), to(#344675));*/
+    /*background-image: -webkit-linear-gradient(top right, #344675, #263148, #344675);*/
+    /*background-image: linear-gradient(to bottom left, #344675, #263148, #344675);*/
+    background-size: 210% 210%;
+    background-position: top right;
+    background-color: #6b6b6b;
+    -webkit-transition: all 0.15s ease;
+    transition: all 0.15s ease;
+    box-shadow: none;
+    color: #ffffff;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    font-size: 10px;
+    font-family: 'panton ,sans-serif';
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    /*border-radius: .25rem;*/
+    -webkit-transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+#btnGenderFemale {
+    width: 100px;
+    border-width: 2px;
+    border: none;
+    position: relative;
+    overflow: hidden;
+    margin: 4px 1px;
+    cursor: pointer;
+    background: #6b6b6b;
+    /*background-image: -webkit-linear-gradient(to bottom left, #344675, #263148, #344675);*/
+    /*background-image: -webkit-gradient(linear, right top, left bottom, from(#344675), color-stop(#263148), to(#344675));*/
+    /*background-image: -webkit-linear-gradient(top right, #344675, #263148, #344675);*/
+    /*background-image: linear-gradient(to bottom left, #344675, #263148, #344675);*/
+    background-size: 210% 210%;
+    background-position: top right;
+    background-color: #6b6b6b;
+    -webkit-transition: all 0.15s ease;
+    transition: all 0.15s ease;
+    box-shadow: none;
+    color: #ffffff;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    font-size: 10px;
+    font-family: 'panton ,sans-serif';
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    /*border-radius: .25rem;*/
+    -webkit-transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+#btnLogin {
+    width: 100px;
+    position: relative;
+    overflow: hidden;
+    margin: 4px 1px;
+    cursor: pointer;
+    /*background: #344675;*/
+
+    background-size: 210% 210%;
+    background-position: top right;
+    /*background-color: #344675;*/
+
+    box-shadow: none;
+    color: #ffffff;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    font-size: 1rem;
+    font-family: 'panton ,sans-serif';
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 3px solid #53F3CE;
+    padding: .375rem .75rem;
+
+}
+
+#divBackLogin {
+    background-image: url('../src/assets/img/pic1.jpg');
+    background-size: 500px 600px;
+    opacity:0.3;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+
+}
+#divBackRegister {
+    background-image: url('../src/assets/img/pic2.jpg');
+    background-size: 500px 600px;
+    opacity:0.3;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+
+}
+
+#btnGenderMaleUpdate {
+    width: 70px;
+    position: relative;
+    overflow: hidden;
+    margin: 4px 1px;
+    cursor: pointer;
+    background-size: 210% 210%;
+    background-position: top right;
+    background-color: #344675;
+    box-shadow: none;
+    color: #ffffff;
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    line-height: 1.5;
+    height:30px;
+    backgroundRepeat: 'no-repeat',
+}
+#btnGenderFemaleUpdate {
+    width: 70px;
+    position: relative;
+    overflow: hidden;
+    margin: 4px 1px;
+    cursor: pointer;
+    background-size: 210% 210%;
+    background-position: top right;
+    background-color: #344675;
+    box-shadow: none;
+    color: #ffffff;
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    line-height: 1.5;
+    height:30px;
+    backgroundRepeat: 'no-repeat',
+
+}
+
+.content{
+    background: #1e1e2f;
+}
+.content-center{
+    background: #1e1e2f;
+}
+.footer{
+    background: #1e1e2f;
+}
+
+
+.fa-border-icon {
+    font-size: 10px;
+    color:white;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+.ant-progress-circle .ant-progress-text{
+    color: #53F3CE;
+    font-family: panton , sans-serif;
+    font-size: 12px;
+}
+
+.chartProgress{
+    width: 50px;
+    height: 50px;
+    margin-top: 100px;
+    margin-left: 50px;
+    background-color: #00b290;
+}
+
+.multicolor-bar {
+    margin: 20px 20%;
+}
+
+.multicolor-bar .values .value {
+    float: left;
+    text-align: center;
+}
+
+.multicolor-bar .scale .graduation {
+    float: left;
+    text-align: center;
+}
+
+.multicolor-bar .bars .bar {
+    float: left;
+    height: 10px;
+}
+
+.multicolor-bar .bars div.bar:first-of-type {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.multicolor-bar .bars div.bar:last-of-type {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.multicolor-bar .legends {
+    text-align: center;
+}
+
+
+.multicolor-bar .legends .legend {
+    display: inline-block;
+    margin: 0 5px;
+    text-align: center;
+}
+
+.multicolor-bar .legends .legend .dot {
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+.multicolor-bar .legends .legend .label {
+    margin-left: 2px;
+    vertical-align: middle;
+}
+
+
+svg#hsbarExample {
+    border: 1px solid #53f3ce;
+    border-radius: 5px;
+    font-size: 10px;
+}
+
+#hsbarExample_text{
+    font-size: 10px;
+}
+
+

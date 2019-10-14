@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6a06027-fd14-4a23-851c-a4c19ceb77c4" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/UserProfile.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+                <element signature="e#603#623#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/Sidebar/Sidebar.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="94" column="36" selection-start-line="94" selection-start-column="36" selection-end-line="94" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+                <element signature="e#306#394#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/auth/Login.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1241">
+              <caret line="81" column="37" selection-start-line="81" selection-start-column="37" selection-end-line="81" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/auth/Register.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2533">
+              <caret line="161" column="25" selection-start-line="161" selection-start-column="25" selection-end-line="161" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>class</find>
+      <find>style</find>
+      <find>navbar_</find>
+      <find>&amp;.active</find>
+      <find>#e9003f</find>
+      <find>main</find>
+      <find>middle_menu</find>
+      <find>middle_</find>
+      <find>backgroun</find>
+      <find>background-color</find>
+      <find>middle</find>
+      <find>background-colo</find>
+      <find>.gd_feature_inner</find>
+      <find>indoor</find>
+      <find>REALISTIC GAME GRAPHICS</find>
+      <find>gd_service_item</find>
+      <find>wheel</find>
+      <find>supp</find>
+      <find>g_left_side</find>
+      <find>about</find>
+      <find>vera</find>
+      <find>.gedget_service_area:before</find>
+      <find>use your</find>
+      <find>the vr</find>
+      <find>realis</find>
+      <find>.ged_service_inner .gd_service_item h4</find>
+      <find>gd-art</find>
+      <find>.order_btn</find>
+      <find>V-R</find>
+      <find>V-</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/routes.js" />
+        <option value="$PROJECT_DIR$/src/components/Charts/Distance/ChartDistance.js" />
+        <option value="$PROJECT_DIR$/src/views/Dashboard.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Sidebar/Sidebar.jsx" />
+        <option value="$PROJECT_DIR$/src/store/actions/types.js" />
+        <option value="$PROJECT_DIR$/src/store/reducers/index.js" />
+        <option value="$PROJECT_DIR$/src/store/reducers/profileReducers.js" />
+        <option value="$PROJECT_DIR$/src/store/actions/profileActions.js" />
+        <option value="$PROJECT_DIR$/src/components/Historique/HistoriqueVitesse.js" />
+        <option value="$PROJECT_DIR$/src/components/BestScore/Speed/BestScoreVitesse.js" />
+        <option value="$PROJECT_DIR$/src/components/BestScore/Distance/BestScoreDistance.js" />
+        <option value="$PROJECT_DIR$/src/components/total/LastHeartRate.js" />
+        <option value="$PROJECT_DIR$/src/components/total/TotalDistance.js" />
+        <option value="$PROJECT_DIR$/src/components/BestScore/Speed/BestVitesseByIdUser.js" />
+        <option value="$PROJECT_DIR$/src/layouts/Admin/Admin.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Footer/Footer.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Goal/HistoriqueGoals.js" />
+        <option value="$PROJECT_DIR$/src/components/Goal/ActiveGoals.js" />
+        <option value="$PROJECT_DIR$/BackEnd/controllers/users.js" />
+        <option value="$PROJECT_DIR$/src/components/Goal/ProgressGoalAchieved.js" />
+        <option value="$PROJECT_DIR$/src/components/Goal/ProgressGA.js" />
+        <option value="$PROJECT_DIR$/src/components/total/TotalCalories.js" />
+        <option value="$PROJECT_DIR$/src/components/BestScore/NavBarBestScore.js" />
+        <option value="$PROJECT_DIR$/src/components/Level/LevelInfo.js" />
+        <option value="$PROJECT_DIR$/src/components/Menu/Menu.js" />
+        <option value="$PROJECT_DIR$/src/components/Goal/AddGoal.js" />
+        <option value="$PROJECT_DIR$/src/components/auth/UpdatePassword.js" />
+        <option value="$PROJECT_DIR$/src/store/actions/authActions.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/components/Home/Home.js" />
+        <option value="$PROJECT_DIR$/src/App.css" />
+        <option value="$USER_HOME$/Documents/CopieProjet/drimo/drimo/scss/_button.scss" />
+        <option value="$USER_HOME$/Documents/CopieProjet/drimo/drimo/scss/_clients.scss" />
+        <option value="$USER_HOME$/Documents/CopieProjet/drimo/drimo/scss/_footer.scss" />
+        <option value="$USER_HOME$/Documents/CopieProjet/drimo/drimo/scss/_predefin.scss" />
+        <option value="$USER_HOME$/Documents/CopieProjet/drimo/drimo/scss/_preloader.scss" />
+        <option value="$USER_HOME$/Documents/CopieProjet/drimo/drimo/scss/_slider.scss" />
+        <option value="$USER_HOME$/Documents/CopieProjet/drimo/drimo/scss/_header.scss" />
+        <option value="$USER_HOME$/Documents/CopieProjet/drimo/css/style.css" />
+        <option value="$USER_HOME$/Documents/CopieProjet/drimo/css/bootstrap.css" />
+        <option value="$USER_HOME$/Documents/CopieProjet/drimo/drimo/css/style.css" />
+        <option value="$USER_HOME$/Documents/CopieProjet/drimo/drimo/vendors/revolution/css/layers.css" />
+        <option value="$USER_HOME$/Documents/CopieProjet/drimo/drimo/css/bootstrap.min.css" />
+        <option value="$USER_HOME$/Documents/CopieProjet/drimo/drimo/scss/_feature.scss" />
+        <option value="$PROJECT_DIR$/../SiteVitrine/Site Version finale/drimo/index-11.html" />
+        <option value="$PROJECT_DIR$/../SiteVitrine/Site Version finale/drimo/css/style.css" />
+        <option value="$PROJECT_DIR$/../Site Version finale/drimo/css/style.css" />
+        <option value="$PROJECT_DIR$/../Site Version finale/drimo/index-11.html" />
+        <option value="$PROJECT_DIR$/src/components/auth/Login.js" />
+        <option value="$PROJECT_DIR$/src/components/auth/Register.js" />
+        <option value="$PROJECT_DIR$/src/views/UserProfile.jsx" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="black-dashboard-react-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="black-dashboard-react-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="black-dashboard-react-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="black-dashboard-react-master" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="black-dashboard-react-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="black-dashboard-react-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="black-dashboard-react-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="black-dashboard-react-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="black-dashboard-react-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="black-dashboard-react-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="black-dashboard-react-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="black-dashboard-react-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="black-dashboard-react-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="black-dashboard-react-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Sidebar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="black-dashboard-react-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="black-dashboard-react-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="black-dashboard-react-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="black-dashboard-react-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="black-dashboard-react-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="black-dashboard-react-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.15.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\LENOVO\Desktop\black-dashboard-react-master\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.1.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\Desktop\black-dashboard-react-master\src\components\BestScore\Speed" />
+      <recent name="C:\Users\LENOVO\Desktop\black-dashboard-react-master\src\components\BestScore\Distance" />
+      <recent name="C:\Users\LENOVO\Desktop\black-dashboard-react-master\src\components\Charts\Calorie" />
+      <recent name="C:\Users\LENOVO\Desktop\black-dashboard-react-master\src\components" />
+      <recent name="C:\Users\LENOVO\Desktop\black-dashboard-react-master" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\Desktop\black-dashboard-react-master\src\assets\img" />
+      <recent name="C:\Users\LENOVO\Desktop\black-dashboard-react-master\src\site" />
+      <recent name="C:\Users\LENOVO\Desktop\black-dashboard-react-master\src\Site" />
+      <recent name="C:\Users\LENOVO\Desktop\black-dashboard-react-master\BackEnd\uploads" />
+      <recent name="C:\Users\LENOVO\Desktop\black-dashboard-react-master\src\views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6a06027-fd14-4a23-851c-a4c19ceb77c4" name="Default Changelist" comment="" />
+      <created>1566302047708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566302047708</updated>
+      <workItem from="1566302048895" duration="80743000" />
+      <workItem from="1566563904513" duration="372000" />
+      <workItem from="1566564493642" duration="34223000" />
+      <workItem from="1566683252704" duration="402000" />
+      <workItem from="1566684377232" duration="17373000" />
+      <workItem from="1566775049590" duration="989000" />
+      <workItem from="1566776880232" duration="3137000" />
+      <workItem from="1566815983662" duration="9801000" />
+      <workItem from="1566830422591" duration="43564000" />
+      <workItem from="1566996941117" duration="78793000" />
+      <workItem from="1567353304476" duration="101000000" />
+      <workItem from="1567608016262" duration="18292000" />
+      <workItem from="1567674173510" duration="420000" />
+      <workItem from="1567674702327" duration="11457000" />
+      <workItem from="1567688951019" duration="81359000" />
+      <workItem from="1568236650013" duration="123312000" />
+      <workItem from="1568740791440" duration="128072000" />
+      <workItem from="1569427224318" duration="2534000" />
+      <workItem from="1569524071949" duration="2176000" />
+      <workItem from="1569838559369" duration="66231000" />
+      <workItem from="1570452167914" duration="10038000" />
+      <workItem from="1570615437220" duration="2595000" />
+      <workItem from="1570805991207" duration="796000" />
+      <workItem from="1571045700209" duration="113000" />
+      <workItem from="1571046082706" duration="2633000" />
+      <workItem from="1571049856377" duration="415000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1566665606990</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566665606991</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated project">
+      <created>1571046500730</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571046500730</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="820840000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09375" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32569557" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50074404" side_tool="true" weight="0.45171848" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49925596" visible="true" weight="0.31914893" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21726191" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32569557" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50074404" side_tool="true" weight="0.45171848" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49925596" visible="true" weight="0.12929623" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/protected-coast-31648" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="commit" />
+    <MESSAGE value="updated project" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated project" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/components/Goal/AddGoal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="n#!!block;n#constructor#0;n#AddGoal#0" />
+            <element signature="n#!!block;n#componentDidMount#0;n#AddGoal#0" />
+            <element signature="n#!!block;n#toggle#0;n#AddGoal#0" />
+            <element signature="e#2945#3045#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/validation/changePassword.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/controllers/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="70" column="69" lean-forward="true" selection-start-line="70" selection-start-column="69" selection-end-line="70" selection-end-column="69" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/auth/UpdatePassword.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2847">
+          <caret line="259" column="12" selection-start-line="259" selection-start-column="12" selection-end-line="259" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+            <element signature="n#!!block;n#constructor#0;n#UpdatePassword#0" />
+            <element signature="n#!!block;n#componentWillReceiveProps#0;n#UpdatePassword#0" />
+            <element signature="n#!!block;n#toggle#0;n#UpdatePassword#0" />
+            <element signature="e#3547#4419#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Goal/ActiveGoals.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1658">
+          <caret line="82" column="33" selection-start-line="82" selection-start-column="33" selection-end-line="82" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/actions/authActions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="76" column="9" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
+          <folding>
+            <element signature="e#712#1418#0" />
+            <element signature="e#1487#1962#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/black-dashboard-react.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/black-dashboard-react/custom/_input-group.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5404" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/black-dashboard-react/custom/vendor/_plugin-perfect-scrollbar.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1715" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/black-dashboard-react/custom/vendor/_plugin-react-notification-alert.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/black-dashboard-react/custom/mixins/_inputs.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3721" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/black-dashboard-react/bootstrap/_input-group.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2684" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/black-dashboard-react/bootstrap/mixins/_alert.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/site/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Home/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/CopieProjet/drimo/drimo/scss/style.scss" />
+    <entry file="file://$USER_HOME$/Documents/CopieProjet/drimo/drimo/scss/_banner.scss" />
+    <entry file="file://$USER_HOME$/Documents/CopieProjet/drimo/drimo/scss/_button.scss" />
+    <entry file="file://$USER_HOME$/Documents/CopieProjet/drimo/drimo/scss/_clients.scss" />
+    <entry file="file://$USER_HOME$/Documents/CopieProjet/drimo/drimo/scss/_contact.scss" />
+    <entry file="file://$USER_HOME$/Documents/CopieProjet/drimo/drimo/scss/_footer.scss" />
+    <entry file="file://$USER_HOME$/Documents/CopieProjet/drimo/drimo/scss/_predefin.scss" />
+    <entry file="file://$USER_HOME$/Documents/CopieProjet/drimo/drimo/scss/_preloader.scss" />
+    <entry file="file://$USER_HOME$/Documents/CopieProjet/drimo/drimo/scss/_slider.scss" />
+    <entry file="file://$USER_HOME$/Documents/CopieProjet/drimo/drimo/scss/_team.scss" />
+    <entry file="file://$USER_HOME$/Documents/CopieProjet/drimo/drimo/scss/_header.scss" />
+    <entry file="file://$USER_HOME$/Documents/CopieProjet/drimo/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="530" column="18" selection-start-line="530" selection-start-column="18" selection-end-line="530" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/CopieProjet/drimo/css/animate.css" />
+    <entry file="file://$USER_HOME$/Documents/CopieProjet/drimo/css/bootstrap.css" />
+    <entry file="file://$USER_HOME$/Documents/CopieProjet/drimo/drimo/vendors/revolution/css/layers.css" />
+    <entry file="file://$USER_HOME$/Documents/CopieProjet/drimo/drimo/vendors/animate-css/site.css" />
+    <entry file="file://$USER_HOME$/Documents/CopieProjet/drimo/drimo/vendors/flexslider/flex-slider.css" />
+    <entry file="file://$USER_HOME$/Documents/CopieProjet/drimo/drimo/css/style.css" />
+    <entry file="file://$USER_HOME$/Documents/CopieProjet/drimo/drimo/vendors/revolution/css/settings.css" />
+    <entry file="file://$USER_HOME$/Documents/CopieProjet/drimo/drimo/vendors/revolution/css/navigation.css" />
+    <entry file="file://$USER_HOME$/Documents/CopieProjet/drimo/drimo/vendors/revolution/css/navigation-skins/ares.css" />
+    <entry file="file://$USER_HOME$/Documents/CopieProjet/drimo/drimo/css/bootstrap.min.css" />
+    <entry file="file://$USER_HOME$/Documents/CopieProjet/drimo/drimo/scss/_feature.scss" />
+    <entry file="file://$PROJECT_DIR$/../SiteVitrine/Site Version finale/drimo/index-11.html" />
+    <entry file="file://$USER_HOME$/Documents/CopieProjet/drimo/drimo/css/_preloader.css" />
+    <entry file="file://$USER_HOME$/Documents/CopieProjet/drimo/drimo/css/icofont.css" />
+    <entry file="file://$USER_HOME$/Documents/CopieProjet/drimo/drimo/css/responsive.css" />
+    <entry file="file://$PROJECT_DIR$/../SiteVitrine/Site Version finale/drimo/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="160" column="87" selection-start-line="160" selection-start-column="81" selection-end-line="160" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Site Version finale/drimo/index-11.html" />
+    <entry file="file://$PROJECT_DIR$/../Site Version finale/drimo/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/src/views/UserProfile.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#603#623#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/auth/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="81" column="37" selection-start-line="81" selection-start-column="37" selection-end-line="81" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/auth/Register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2533">
+          <caret line="161" column="25" selection-start-line="161" selection-start-column="25" selection-end-line="161" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Sidebar/Sidebar.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="94" column="36" selection-start-line="94" selection-start-column="36" selection-end-line="94" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#306#394#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
